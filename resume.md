@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lanchuan Lin
+title: Lanchuan Lin 
 subtitle: An awesome person
 ---
 
