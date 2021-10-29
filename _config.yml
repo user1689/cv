@@ -7,10 +7,10 @@ baseurl: "/cv" # the subpath of your site, e.g. /blog/
 url: "https://user1689.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Xi HOU
-  github: cicihou
-  linkedin: hou-xi-77a49993
-  email: houxi_zuel@163.com
+  fullname: Lanchuan
+  github: user1689
+  linkedin: none
+  email: irgame8@163.com
 
 
 # Syntax highlighting

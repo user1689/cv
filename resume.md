@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Xi HOU
+title: Lanchuan Lin
 subtitle: An awesome person
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-email: houxi_zuel@163.com <br>
-github: [https://github.com/cicihou](https://github.com/cicihou)
+email: irgame8@163.com <br>
+github: [https://github.com/user1689](https://github.com/user1689)
 
 ### SKILLS
 Python: Flask/Django/Pandas/Numpy/Celery <br>
