@@ -3,8 +3,8 @@ title: Lan Chuan
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/cv" # the subpath of your site, e.g. /blog/
-url: "https://github.com/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://user1689.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Xi HOU
