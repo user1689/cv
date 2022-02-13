@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/profolio.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>Python Developer of 2-year experience, Translator of 3 books, MSIS student in NEU now</p>
-	<p>Hiking, Reading, LGBTQ/Feminism Ally</p>
+	<p>Python Developer of 1-year experience, Freelance writer, MSIS student in NEU now</p>
+	<p>Running, Reading</p>
 </div>
